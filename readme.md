@@ -40,4 +40,4 @@ This repository contains the submission for the ASBA Predictive Analytics Compet
 - Platform: Kaggle Notebooks & local development environment
 
 # 📈 Project Highlights
-In this project, we achieved a train MAE of 1.25784 and a test MAE of 268.168 on the public leaderboard (final ranking: #1 / ~500 participants) using XGBoost regression. Further, we dive deeper on how price variation across Melbourne suburbs reveal strong correlations with certain accomodation features.
+In this project, we achieved a training Mean Absolute Error (MAE) of **1.25784** and a test MAE of **268.168** on the public leaderboard, earning **1st place out of ~500 participants**. Our final model was powered by **XGBoost regression**, supported by extensive data cleaning and feature engineering. Beyond model performance, we conducted a detailed exploratory analysis revealing that **price variation across Melbourne suburbs** is strongly correlated with key accommodation features.
