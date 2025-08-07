@@ -9,7 +9,7 @@
 6. Project Highlights
 
 # 🔍 About the Project
-This repository contains the submission for the ASBA Predictive Analytics Competition (2025) on Kaggle. The aim was to build a predictive model estimating Airbnb listing prices in Melbourne, using real listing features. This challenge was contributed by a team consist of 3 people: me, **Rachel Tran** and **Merlyn Febriany**, replicating a full analytical workflow, imaging real-world business forecasting.
+This repository contains the submission for the ASBA Predictive Analytics Competition (2025) on Kaggle. The aim was to build a predictive model estimating Airbnb listing prices in Melbourne, using real listing features. This challenge was contributed by a team consist of 3 people: **Eveline Setiawan (me)**, **Rachel Tran** and **Merlyn Febriany**, replicating a full analytical workflow, imaging real-world business forecasting.
 
 # 🗂 Dataset
 - Training set: 7,000 records
