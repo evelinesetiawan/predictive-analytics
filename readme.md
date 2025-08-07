@@ -1,4 +1,4 @@
-# 🚀 Predicting Airbnb Price Listing in Melbourne
+# Predicting Airbnb Price Listing in Melbourne
 
 # 📌 Table of Contents
 1. About the Project
