@@ -32,7 +32,6 @@ This repository contains the submission for the ASBA Predictive Analytics Compet
 | **Feature Engineering** | Create features like location clusters, amenity counts, review score categories |
 | **Modelling**        | Tried XGBoost, LightGBM, RandomForest, and stacked ensembles |
 | **Model Evaluation**| Validate using cross‑validation, track performance on Kaggle’s public leaderboard |
-| **Submission**      | Generate submission CSV and track final leaderboard MAE |
 
 # 🛠️ Technology Stack
 - Languages: Python, Jupyter Notebook
